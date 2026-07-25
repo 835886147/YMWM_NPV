@@ -1,9 +1,8 @@
 [
   {
-    "country": "us",
-    "name": "test",
+    "name": "test-us",
     "serverAddress": "65.20.89.29",
-    "serverPort": 443,
+    "serverPort": 39798,
     "password": "123456789",
     "method": "aes-256-gcm"
   }
