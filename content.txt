@@ -5,6 +5,6 @@
     "serverAddress": "65.20.89.29",
     "serverPort": 443,
     "password": "123456789",
-    "method": "chacha20-ietf-poly1305"
+    "method": "aes-256-gcm"
   }
 ]
