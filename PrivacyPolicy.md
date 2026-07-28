@@ -110,7 +110,7 @@
   11. Third-Party Links and Services
 
   The App may rely on third-party services (e.g., Google Play Billing, [analytics/ad SDKs]). Their processing is
-  governed by their own privacy policies. [Link them here.]
+  governed by their own privacy policies. 
 
   12. Contact Us
 
