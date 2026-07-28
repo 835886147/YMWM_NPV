@@ -1,7 +1,7 @@
 # PrivacyPolicy
  1. Introduction
 
-  This Privacy Policy explains how [Legal Company Name] ("VeilNet," "we," "us," or "our") collects, uses, discloses, and
+  This Privacy Policy explains how [yimengweima] ("VeilNet," "we," "us," or "our") collects, uses, discloses, and
   protects information when you use the VeilNet mobile application (the "App") and related services (collectively, the
   "Service").
 
@@ -94,7 +94,7 @@
   - California (CCPA/CPRA): you have the right to know, delete, correct, and opt out of "sale"/"sharing" of personal
   information. We do not sell personal information.
 
-  To exercise any right, contact us at [privacy@yourdomain.com]. You may also delete your data via [in-app setting] or
+  To exercise any right, contact us at [noww6446@gmail.com]. You may also delete your data via [in-app setting] or
   the account-deletion link: [URL]. (Google Play requires an accessible way to request account/data deletion.)
 
   9. Children's Privacy
