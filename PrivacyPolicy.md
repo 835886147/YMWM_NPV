@@ -1,7 +1,7 @@
 # PrivacyPolicy
  1. Introduction
 
-  This Privacy Policy explains how [yimengweima] ("VeilNet," "we," "us," or "our") collects, uses, discloses, and
+  This Privacy Policy explains how [yimengweima] ("SSVPN," "we," "us," or "our") collects, uses, discloses, and
   protects information when you use the VeilNet mobile application (the "App") and related services (collectively, the
   "Service").
 
