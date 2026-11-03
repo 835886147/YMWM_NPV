@@ -3,7 +3,7 @@
         {
             "content":"vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLpppnmuK8gwqcgMCIsCiAgImFkZCI6ICJoazIzMzUzNjAueW91dHZzb2Z0LmNsb3VkIiwKICAicG9ydCI6ICIyMTA0MyIsCiAgImlkIjogImRhM2QxNGQxLWUzZjgtNGU3Ny05OTVkLWE1ZjFlOTI4NDllMSIsCiAgImFpZCI6ICIwIiwKICAic2N5IjogIm5vbmUiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAiaGsyMzM1MzYwLnlvdXR2c29mdC5jbG91ZCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiY2hyb21lIiwKICAiaW5zZWN1cmUiOiAiMCIsCiAgInZjbiI6ICIiLAogICJwY3MiOiAiIgp9",
             "country":"jp",
-            "isFree":false,
+            "isFree":true,
             "sourceTyp":"vmess"
         }
     ],
